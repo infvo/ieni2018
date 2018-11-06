@@ -13,6 +13,36 @@
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
     <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
 
+    <span class="sidebar-nav-item">Digitale geletterdheid:</span>
+    {% assign dg_list = site.dg %}
+    {% for node in dg_list %}
+      {% if node.title != null %}
+        {% if node.layout == "dg-layout" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
+          {% for subnode in dg_list %}
+            {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
+               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}"> &nbsp; &nbsp; - {{ subnode.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    <span class="sidebar-nav-item">INF basisprogramma:</span>
+    {% assign basis_list = site.basis %}
+    {% for node in basis_list %}
+      {% if node.title != null %}
+        {% if node.layout == "basis-layout" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
+          {% for subnode in basis_list %}
+            {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
+               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}"> &nbsp; &nbsp; - {{ subnode.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
     <span class="sidebar-nav-item">INF keuzethema's:</span>
     {% assign themas_list = site.themas %}
     {% for node in themas_list %}
@@ -28,20 +58,6 @@
       {% endif %}
     {% endfor %}
 
-    <span class="sidebar-nav-item">Digitale geletterdheid:</span>
-    {% assign dg_list = site.dg %}
-    {% for node in dg_list %}
-      {% if node.title != null %}
-        {% if node.layout == "dg-layout" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
-          {% for subnode in dg_list %}
-            {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
-               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}"> &nbsp; &nbsp; - {{ subnode.title }}</a>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
 
     <span class="sidebar-nav-item">----</span>
     {% comment %}

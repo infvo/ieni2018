@@ -35,6 +35,8 @@ collections:
     output: true
   themas:
     output: true
+  basis:
+    output: true
 
 
 # Exclude from processing.

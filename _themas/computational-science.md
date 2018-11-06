@@ -4,7 +4,7 @@ layout: thema
 thema: "computational science"
 ---
 
-Dit is de pagina voor Scientific Computing: Agent Based Modeling.
+Dit is de pagina voor Computational Science: Agent Based Modeling.
 
 ## Testers gezocht
 

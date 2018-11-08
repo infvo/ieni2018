@@ -11,11 +11,7 @@ Het materiaal van het keuzethema *Databases* bestaat uit de volgende onderdelen:
 * interactieve cursus SQL
     * link: [sql.informaticavo.nl](https://sql.informaticavo.nl){:target="_blank"}
 * database-ontwerp
-    * download: [cursus database-ontwerp](databases/cursus-databasedesign-versie-5.pdf){:target="_blank"}
-    * download: [docentenhandleiding - uitwerkingen opdrachten](databases/uitwerkingen-cursus-databasedesign-versie-4.pdf){:target="_blank"}
-    * download: [handleiding MySQL Workbench](databases/mysqlworkbench-versie-2.pdf){:target="_blank"}
-    * download: [voorbeeldopdracht fietsverhuur](databases/practicum-fietsverhuur-versie-2.pdf){:target="_blank"}
-    * download: [docentenhandleiding - uitwerking voorbeeldopdracht](databases/implementatie-van-fietsverhuur-versie-4.pdf){:target="_blank"}
+    * [download zip-bestanden](http://kseinformatica.nl/databasedesign.zip){:target="_blank"}
 * Linked Data en andere database-paradigma's (NoSQL)
 * project (zie verderop)
 
@@ -40,7 +36,7 @@ Contactpersoon is Marc Castenmiller
 ### NoSQL en Linked Data
 
 * online materiaal: P.M.
-* [interactieve versie Jupyter Notebooks - met MongoDB en Linked Data](https://db.infvo.nl:8000){:target="_blank"}
+* [interactieve versie Jupyter Notebooks - met MongoDB en Linked Data](https://db.infvo.nl){:target="_blank"}
 * dit materiaal is al wel beschikbaar voor docenten, naar nog niet getest met leerlingen.
 
 ### Project

@@ -6,20 +6,18 @@ thema: "databases"
 
 **Frans Peeters, Marc Castenmiller, Eelco Dijkstra**
 
-Het materiaal van het keuzethema *Databases* bestaat uit de volgende onderdelen:
+Het materiaal van het keuzethema Databases bestaat uit de volgende onderdelen:
 
 * interactieve cursus SQL
-    * link: [sql.informaticavo.nl](https://sql.informaticavo.nl){:target="_blank"}
 * database-ontwerp
-    * [download zip-bestanden](http://kseinformatica.nl/databasedesign.zip){:target="_blank"}
 * Linked Data en andere database-paradigma's (NoSQL)
-* project (zie verderop)
+* project
 
 ## Status van het materiaal
 
 ### SQL
 
-De interactieve cursus SQL is getest door de docenten in het ontwikkelteam.
+De interactieve cursus SQL (zie: [sql.informaticavo.nl](https://sql.informaticavo.nl){:target="_blank"}) is met leerlingen getest door docenten in het ontwikkelteam.
 Deze is beschikbaar voor testen door andere docenten.
 Deze cursus is -met uitzondering van enkele onderdelen, bijvoorbeeld over Joins- zelfstandig door leerlingen te volgen.
 
@@ -27,7 +25,8 @@ Contactpersoon is Frans Peeters.
 
 ### Database-ontwerp
 
-Het materiaal is beschikbaar voor testen.
+Een eerste versie van materiaal is beschikbaar voor testen
+([download zip-bestanden](http://kseinformatica.nl/databasedesign.zip){:target="_blank"}).
 Omdat database-ontwerp een lastig onderwerp is, is het wel noodzakelijk dat docenten ervaring hebben met met dit onderwerp,
 of nascholing hiervoor gevolgd hebben.
 
@@ -38,6 +37,10 @@ Contactpersoon is Marc Castenmiller
 * online materiaal: P.M.
 * [interactieve versie Jupyter Notebooks - met MongoDB en Linked Data](https://db.infvo.nl){:target="_blank"}
 * dit materiaal is al wel beschikbaar voor docenten, naar nog niet getest met leerlingen.
+    * [aanvragen van account voor db.infvo.nl](mailto:db@infvo.nl)
+
+Contactperson is Eelco Dijkstra
+
 
 ### Project
 
@@ -45,10 +48,9 @@ Het is belangrijk dat leerlingen hun vaardigheden op het gebied van databases oo
 Dat hoeft geen speciaal database-project te zijn:
 het projectdeel van het keuzethema Databases kan met het projectdeel van andere keuzethema's gecombineerd worden,
 bijvoorbeeld met Netwerken/Internet of Things en Physical Computing.
-(Andere combinaties zijn ook mogelijk.)
+Andere combinaties zijn ook mogelijk.
 Een dergelijke combinatie geeft een meer realistische context voor het database-aspect.
 Bovendien geeft dit de mogelijkheid om  leerlingen met verschillende achtergronden en interesses in een projectteam samen te laten werken.
-
 
 
 ## Nascholing

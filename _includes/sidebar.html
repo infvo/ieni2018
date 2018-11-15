@@ -13,6 +13,21 @@
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
     <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
 
+    <span class="sidebar-nav-item">Algemeen:</span>
+    {% assign algemeen_list = site.algemeen %}
+    {% for node in algemeen_list %}
+      {% if node.title != null %}
+        {% if node.layout == "algemeen-layout" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
+          {% for subnode in algemeen_list %}
+            {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
+               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}"> &nbsp; &nbsp; - {{ subnode.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
     <span class="sidebar-nav-item">Digitale geletterdheid:</span>
     {% assign dg_list = site.dg %}
     {% for node in dg_list %}

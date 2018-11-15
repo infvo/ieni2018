@@ -37,6 +37,8 @@ collections:
     output: true
   basis:
     output: true
+  algemeen:
+    output: true
 
 
 # Exclude from processing.

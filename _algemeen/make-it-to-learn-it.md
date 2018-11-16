@@ -4,7 +4,7 @@ layout: algemeen-layout
 thema: "make it"
 ---
 
-** Ebrahim Rahimi & Frans Peeters**
+**Ebrahim Rahimi & Frans Peeters**
 
 Design-based education offers a learning-by-making approach to students’ learning and deepening of CS concepts through making realistic digital artifacts.
 However, in many design projects, the link between the learning of concepts and designing is not clear.

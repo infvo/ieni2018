@@ -5,17 +5,19 @@
 layout: default
 ---
 
+## Presentaties i&i conferentie
+
+Deze website bevat de presentaties van de i&i conferentie van 7 en 8 november 2018.
+
+(Nog niet alle presentaties zijn beschikbaar.
+We proberen deze zo spoedig mogelijk toe te voegen.)
+
+## Examenprogramma informatica
 
 Het nieuwe examenprogramma voor het HAVO/VWO-vak informatica gaat in per september 2019.
 Momenteel wordt er hard gewerkt aan het ontwikkelen van lesmateriaal hiervoor.
 De verschillende methodes zorgen voor het materiaal voor het verplichte deel van het programma.
 In opdracht van SLO werken de informatica-steunpunten samen met docententeams aan het materiaal voor de keuzethema's.
-
-Deze website geeft toegang tot het materiaal voor de keuzethema's.
-Het materiaal wordt het komende schooljaar (2018-2019) getest.
-Dit testen gebeurt eerst binnen de ontwikkelteams, daarna door docenten die hiermee in een vroeg stadium aan de slag willen.
-
-## Informatica-keuzethema's
 
 * [Databases]({{ site.bseurl }}/databases.html)
 * [Netwerken-Internet of Things]({{ site.baseurl}}/netwerken.html)

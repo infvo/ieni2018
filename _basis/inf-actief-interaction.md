@@ -6,7 +6,7 @@ thema: interaction
 
 **Lonneke Koijen & Pieter Vorstenbosch**
 
-* presentatie [Interaction Design]({{ site.baseurl }}/basis/download/vorstenbosch-idx-verkleind.pdf){:target="_blank"}
+* presentatie [Interaction Design]({{ site.baseurl }}/basis/download/vorstenbosch -idx-verkleind.pdf){:target="_blank"}
 * boekje [Interaction design]({{ site.baseurl }}/basis/download/vorstenbosch-boekje-design-thinking.pdf){:target="_blank"}
 
 Voor de het domein F Interactie ontwikkelt Informatica-Actief een cursus Interaction Design. 

@@ -6,6 +6,8 @@ thema: "make it"
 
 **Ebrahim Rahimi & Frans Peeters**
 
+* Presentatie: [Make it to learn it!]({{ site.baseurl }}/download/rahimi-make-it-to-learn-it.pdf){:target="_blank"}
+
 Design-based education offers a learning-by-making approach to students’ learning and deepening of CS concepts through making realistic digital artifacts.
 However, in many design projects, the link between the learning of concepts and designing is not clear.
 

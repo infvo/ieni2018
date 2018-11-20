@@ -44,7 +44,7 @@
     {% endfor %}
 
     <span class="sidebar-nav-item">INF basisprogramma:</span>
-    {% assign basis_list = site.basis %}
+    {% assign basis_list = site.basis | sort: "title" %}
     {% for node in basis_list %}
       {% if node.title != null %}
         {% if node.layout == "basis-layout" %}

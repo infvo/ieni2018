@@ -1,7 +1,7 @@
 ---
 title: "D. Algoritmisch denken"
 layout: basis-layout
-thema: algoritmisch-denken
+thema: "Algoritmen (B) en programmeren (D)"
 ---
 
 **Martin Bruggink en Renske Smetsers-Weeda**

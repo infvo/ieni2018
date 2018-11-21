@@ -1,5 +1,5 @@
 ---
-title: "F. InfActief-Interactie"
+title: "F. Informatica-Actief: Interactie"
 layout: basis-layout
 thema: interactie
 ---

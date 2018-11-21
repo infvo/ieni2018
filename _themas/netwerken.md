@@ -21,6 +21,4 @@ Hierbij wordt gebruik gemaakt van [NodeRed](https://nodered.org).
 
 Voor dit praktische deel is het nodig om een eigen laptop mee te nemen. Ook is het handig om van te voren een (gratis) NodeRed-account aan te maken via [FRED](https://fred.sensetecnic.com).
 
-Examenprogramma downloaden: [Examenprogramma informatica]({{ site.baseurl }}/themas/netwerken/advies-examenprogramma-informatica-havo-vwo.pdf)
-
 [Cursus Amsterdam]({{ site.baseurl }}/themas/netwerken/iot-cursus-amsterdam-2018.html)

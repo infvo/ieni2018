@@ -19,10 +19,12 @@ Momenteel wordt er hard gewerkt aan het ontwikkelen van lesmateriaal hiervoor.
 De verschillende methodes zorgen voor het materiaal voor het verplichte deel van het programma.
 In opdracht van SLO werken de informatica-steunpunten samen met docententeams aan het materiaal voor de keuzethema's.
 
-* [Databases]({{ site.bseurl }}/databases.html)
-* [Netwerken-Internet of Things]({{ site.baseurl}}/netwerken.html)
-* [Physical computing]({{ site.baseurl }}/physical-computing)
-* [Scientific computing: Agent based modeling]({{ site.baseurl }}/scientific-computing)
+* [Algoritmiek]({{ site.baseurl }}/themas/algoritmiek.html)
+* [Databases]({{ site.baseurl }}/themas/databases.html)
+* [Game design]({{ site.baseurl }}/themas/gamedesign.html)
+* [Netwerken-Internet of Things]({{ site.baseurl}}/themas/netwerken.html)
+* [Physical computing]({{ site.baseurl }}/themas/physical-computing)
+* [Computational Science: Agent based modeling]({{ site.baseurl }}/themas/computational-science)
 
 
 ## Nieuws

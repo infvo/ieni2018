@@ -6,7 +6,7 @@ thema: "physical computing"
 
 **Martin Bruggink**, vakdidacticus informatica bij de lerarenopleiding van de TU Delft
 
-Presentatie: [Physical Computing]({{ site.baseurl }}/download/bruggink-physical-computing.pdf){:target="_blank"}
+Presentatie: [Physical Computing]({{ site.baseurl }}/themas/physical-computing/bruggink-physical-computing.pdf){:target="_blank"}
 
 Physical Computing is één van de keuze thema’s in het nieuwe examenprogramma, hiervoor is een nieuwe lesmodule ontwikkeld.
  De lesmodule leert leerlingen hoe ze zelf op gestructureerde wijze een systeem kunnen ontwerpen en ontwikkelen waarbij sensoren en actuatoren een belangrijke rol spelen.

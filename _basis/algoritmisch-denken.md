@@ -6,7 +6,11 @@ thema: algoritmisch-denken
 
 **Martin Bruggink en Renske Smetsers-Weeda**
 
-Presentatie: [Algoritmisch denken en Gestructureerd Programmeren]({{ site.baseurl }}/download/bruggink-weeda-algoritmisch-denken.pdf){:target="_blank"}
+Presentaties:
+
+* [Algoritmisch denken en Gestructureerd Programmeren]({{ site.baseurl }}/download/bruggink-weeda-algoritmisch-denken.pdf){:target="_blank"}
+* [Toetsing: Algoritmiek en programmeren]({{ site.baseurl }}/download/smetsers-toetsen.pdf){:target="_blank"}
+
 
 Programmeren (domein D) heeft een belangrijke plek in het nieuwe examenprogramma voor informatica.
 Programma’s worden gemaakt, aangepast en geanalyseerd.
@@ -32,5 +36,5 @@ zodat u het zelf in de klas kunt toepassen.
 
 Het lesmateriaal bestaat uit werkbladen met theorie en (programmeer) opdrachten.
 Voor docenten zijn uitwerkingen en toets materiaal beschikbaar.
-Het materiaal is gratis toegankelijk via http://course.cs.ru.nl/greenfoot/.
+Het materiaal is gratis toegankelijk via [http://course.cs.ru.nl/greenfoot](http://course.cs.ru.nl/greenfoot/){:target="_blank"}.
 Ook is het geïntegreerd in het lesmateriaal van Informatica Actief.

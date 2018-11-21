@@ -20,11 +20,13 @@ De verschillende methodes zorgen voor het materiaal voor het verplichte (basis)d
 In opdracht van SLO werken de informatica-steunpunten samen met docententeams aan het materiaal voor de keuzethema's.
 
 * [Algoritmiek]({{ site.baseurl }}/themas/algoritmiek.html)
+* [Computational Science: Agent based modeling]({{ site.baseurl }}/themas/computational-science.html)
 * [Databases]({{ site.baseurl }}/themas/databases.html)
 * [Game design]({{ site.baseurl }}/themas/gamedesign.html)
 * [Netwerken-Internet of Things]({{ site.baseurl}}/themas/netwerken.html)
-* [Physical computing]({{ site.baseurl }}/themas/physical-computing)
-* [Computational Science: Agent based modeling]({{ site.baseurl }}/themas/computational-science)
+* [Physical computing]({{ site.baseurl }}/themas/physical-computing.html)
+* [Programmeerparadigma's: Functioneel Programmeren]({{ site.baseurl }}/themas/functional-programming.html)
+* [User experience]({{ site.baseurl }}/themas/user-experience.html)
 
 ## Agenda
 

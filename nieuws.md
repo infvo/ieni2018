@@ -1,5 +1,5 @@
 ---
 title: Nieuws
 layout: news
-list_title: "Het laatste nieuws"
+list_title: "nieuwsberichten"
 ---

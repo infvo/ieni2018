@@ -14,7 +14,8 @@ We proberen deze zo spoedig mogelijk toe te voegen.*
 
 ## Examenprogramma informatica
 
-Het nieuwe examenprogramma voor het HAVO/VWO-vak informatica gaat in per september 2019.
+Het nieuwe examenprogramma ([download]({{site.baseurl}}/download/advies-examenprogramma-informatica-havo-vwo.pdf){:target="_blank"})
+ voor het HAVO/VWO-vak informatica gaat in per september 2019.
 Momenteel wordt er hard gewerkt aan het ontwikkelen van lesmateriaal hiervoor.
 De verschillende methodes zorgen voor het materiaal voor het verplichte (basis)deel van het programma.
 In opdracht van SLO werken de informatica-steunpunten samen met docententeams aan het materiaal voor de keuzethema's.

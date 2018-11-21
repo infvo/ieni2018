@@ -4,7 +4,7 @@ layout: basis-layout
 thema: algoritmisch-denken
 ---
 
-**Martin Bruggink en Renske Semtsers-Weeda**
+**Martin Bruggink en Renske Smetsers-Weeda**
 
 Presentatie: [Algoritmisch denken en Gestructureerd Programmeren]({{ site.baseurl }}/download/bruggink-weeda-algoritmisch-denken.pdf){:target="_blank"}
 

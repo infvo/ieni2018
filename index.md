@@ -9,14 +9,14 @@ layout: default
 
 Deze website bevat de presentaties van de i&i conferentie van 7 en 8 november 2018.
 
-(Nog niet alle presentaties zijn beschikbaar.
-We proberen deze zo spoedig mogelijk toe te voegen.)
+*Nog niet alle presentaties zijn beschikbaar.
+We proberen deze zo spoedig mogelijk toe te voegen.*
 
 ## Examenprogramma informatica
 
 Het nieuwe examenprogramma voor het HAVO/VWO-vak informatica gaat in per september 2019.
 Momenteel wordt er hard gewerkt aan het ontwikkelen van lesmateriaal hiervoor.
-De verschillende methodes zorgen voor het materiaal voor het verplichte deel van het programma.
+De verschillende methodes zorgen voor het materiaal voor het verplichte (basis)deel van het programma.
 In opdracht van SLO werken de informatica-steunpunten samen met docententeams aan het materiaal voor de keuzethema's.
 
 * [Algoritmiek]({{ site.baseurl }}/themas/algoritmiek.html)

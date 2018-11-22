@@ -17,9 +17,9 @@ Tot slot bekijken een onderzoek met behulp van een NetLogo model van begin tot e
 De eerst volgende versie van het lesmateriaal hopen we binnenkort hier beschikbaar te kunnen maken.
 Bekijk hieronder alvast de ondersteunende documeten en externe links per hoofdstuk.
 
-- [Hoofdstuk 1 - Modellen](computational-science/h1-modellen.md)
-- [Hoofdstuk 2 - NetLogo](computational-science/h2-netlogo.md)
-- [Hoofdstuk 3 - Onderzoek doen](computational-science/h3-onderzoek-doen.md)
+- [Hoofdstuk 1 - Modellen](computational-science/h1-modellen)
+- [Hoofdstuk 2 - NetLogo](computational-science/h2-netlogo)
+- [Hoofdstuk 3 - Onderzoek doen](computational-science/h3-onderzoek-doen)
 
 ## IenI 2018
 

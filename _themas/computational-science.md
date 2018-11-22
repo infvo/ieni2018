@@ -4,6 +4,25 @@ layout: thema
 thema: "computational science"
 ---
 
+# Domein R: Computational Science
+
+## Lesmateriaal
+
+Bij Computational Science benadrukken we hoe informatica gebruikt kan worden binnen "andere wetenschappelijke disciplines".
+Dit gebeurt door te onderzoeken onderwerpen te modelleren en simuleren.
+In dit lesmateriaal bekijken we de toepassingen van modellen en simulaties.
+We leren de programmeertaal NetLogo om zelf modellen en simulaties te kunnen maken.
+Tot slot bekijken een onderzoek met behulp van een NetLogo model van begin tot einde.
+
+De eerst volgende versie van het lesmateriaal hopen we binnenkort hier beschikbaar te kunnen maken.
+Bekijk hieronder alvast de ondersteunende documeten en externe links per hoofdstuk.
+
+- [Hoofdstuk 1 - Modellen](computational-science/h1-modellen.md)
+- [Hoofdstuk 2 - NetLogo](computational-science/h2-netlogo.md)
+- [Hoofdstuk 3 - Onderzoek doen](computational-science/h3-onderzoek-doen.md)
+
+## IenI 2018
+
 **Natasa Grgurina (Rijksuniversiteit Groningen)**
 
 We presenteren lesmateriaal dat onze themateam heeft ontwikkeld voor Computational Science – een keuzethema in het nieuwe examenprogramma voor informatica.

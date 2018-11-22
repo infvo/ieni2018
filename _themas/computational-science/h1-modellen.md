@@ -17,8 +17,8 @@ thema: "computational science"
 
 ### Links
 
-* [@icon-film Opdracht 2: Vuurmieren](https://www.scientificamerican.com/video/fire-ants-build-eiffel-tower-structures/)
-* [@icon-film Opdracht 4 vraag 4: Delen of stelen](https://www.youtube.com/watch?v=p3Uos2fzIJ0)
-* [@icon-film Opdracht 6: Een zwerm spreeuwen](https://www.youtube.com/watch?v=V4f_1_r80RY)
-* [@icon-film Opdracht 7: Bosbrand](https://news.nationalgeographic.com/2017/07/california-wildfire-space-weather-satellite-video-spd/)
+* @icon-film [Opdracht 2: Vuurmieren](https://www.scientificamerican.com/video/fire-ants-build-eiffel-tower-structures/)
+* @icon-film [Opdracht 4 vraag 4: Delen of stelen](https://www.youtube.com/watch?v=p3Uos2fzIJ0)
+* @icon-film [Opdracht 6: Een zwerm spreeuwen](https://www.youtube.com/watch?v=V4f_1_r80RY)
+* @icon-film [Opdracht 7: Bosbrand](https://news.nationalgeographic.com/2017/07/california-wildfire-space-weather-satellite-video-spd/)
 

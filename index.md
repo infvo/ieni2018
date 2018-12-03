@@ -29,6 +29,8 @@ In opdracht van SLO werken de informatica-steunpunten samen met docententeams aa
 * [Programmeerparadigma's: Functioneel Programmeren]({{ site.baseurl }}/themas/functional-programming.html)
 * [User experience]({{ site.baseurl }}/themas/user-experience.html)
 
+De handreiking voor het schoolexamen is te vinden op de [SLO-website](http://handreikingschoolexamen.slo.nl/informatica){:target="_blank"}.
+
 ## Agenda
 
 <div class="agenda-list">

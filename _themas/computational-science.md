@@ -12,18 +12,20 @@ Bij Computational Science benadrukken we hoe informatica gebruikt kan worden bin
 Dit gebeurt door te onderzoeken onderwerpen te modelleren en simuleren.
 In dit lesmateriaal bekijken we de toepassingen van modellen en simulaties.
 We leren de programmeertaal NetLogo om zelf modellen en simulaties te kunnen maken.
-Tot slot bekijken een onderzoek met behulp van een NetLogo model van begin tot einde.
+Tot slot bekijken we een onderzoek met behulp van een NetLogo model van begin tot einde.
 
-De eerst volgende versie van het lesmateriaal hopen we binnenkort hier beschikbaar te kunnen maken.
+De eerstvolgende versie van het lesmateriaal hopen we binnenkort hier beschikbaar te kunnen maken.
 Bekijk hieronder alvast de ondersteunende documeten en externe links per hoofdstuk.
 
 - [Hoofdstuk 1 - Modellen](computational-science/h1-modellen)
 - [Hoofdstuk 2 - NetLogo](computational-science/h2-netlogo)
 - [Hoofdstuk 3 - Onderzoek doen](computational-science/h3-onderzoek-doen)
 
-## IenI 2018
+## Presentatie IenI 2018
 
-**Natasa Grgurina (Rijksuniversiteit Groningen)**
+**Natasa Grgurina (Rijksuniversiteit Groningen), René van der Veen**
+
+* [Presentatie]({{site.baseurl}}/themas/computational-science/grgurina-agent-based-modeling.pdf){:target="_blank"}
 
 We presenteren lesmateriaal dat onze themateam heeft ontwikkeld voor Computational Science – een keuzethema in het nieuwe examenprogramma voor informatica.
 Computationa; Science betekent modelleren en simuleren en dat zijn belangrijke aspecten van computational thinking die een geschikte context bieden om de leerinhoud van informatica in praktijk te brengen.

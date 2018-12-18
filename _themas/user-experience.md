@@ -6,6 +6,8 @@ thema: user-experience
 
 **Gerrit Jan de Wilde en Dirk-Jan van de Poppe**
 
+[Presentatie workshop]({{ site.baseurl }}/themas/user-experience/dewilde-user-experience.pdf){:target="_blank"}
+
 Het nieuwe examenprogramma bestaat uit een kernprogramma en een aantal keuzemodules.
 Voor de havo zijn twee en voor het VWO zijn vier keuzemodules verplicht.
 “User Experience” (afgekort UX) is één van die keuzemodules.

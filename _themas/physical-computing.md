@@ -30,6 +30,11 @@ Het materiaal is uitgewerkt voor Micro:bit, Arduino en Lego Mindstorms.
 De testversie van het lesmateriaal is beschikbaar via [Physical Computing op wikiwijs](https://maken.wikiwijs.nl/135434/Physical_Computing_geheel){:target="_blank"}.
 Ook de docentenhandleiding met uitgangspunten, opzet, en uitwerkingen is daar te vinden (zie "Over de module").
 
+Het materiaal voor de Micro:bit is inmiddels grondig herzien op basis van de testresultaten.
+Versie 1.0 is nu beschikbaar via Wikiwijs.
+In de komende maanden wordt het materiaal verder getest en op basis daarvan zullen we waarschijnlijk nog wel enkele wijzigingen doorvoeren.
+De 1.0 versie voor Arduino zal in februari 2019 beschikbaar komen.
+De versie voor Lego Mindstorms volgt in maart 2019.
 
 ### Testen
 
@@ -38,7 +43,7 @@ Momenteel wordt het materiaal getest op scholen in Nijmegen en Rotterdam.
 
 #### Testresultaten
 
-Uit de eerste testresultaten blijkt dat het materiaal blijkt op sommige punten de leerlingen en docent nog onvoldoende ondersteuning te bieden in het werken met Arduino.
+Uit de eerste testresultaten blijkt dat het materiaal op sommige punten de leerlingen en docent nog onvoldoende ondersteuning biedt in het werken met Arduino.
 Daarvoor is de behoefte aan meer kleinere stappen.
 We maken zo veel mogelijk gebruik van bestaande materialen dat al beschikbaar is op dit vlak.
 

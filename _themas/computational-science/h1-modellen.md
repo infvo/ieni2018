@@ -18,15 +18,15 @@ Mocht dat om wat voor reden dan ook niet praktisch of bruikbaar zijn dan staan d
 Voor sommige opdrachten heb je een pagina of bestand nodig.
 Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
 
-* WWW [Opdracht 4: Delen of stelen, vraag 5](resources/site/O4v5 delen og stelen/O4v5.html)
-* WWW [Opdracht 5: Weldoener](resources/site/O5 Weldoener/O5.html)([.nlogo](resources/site/O5 Weldoener/files/Weldoener.nlogo)
+* WWW [Opdracht 4: Delen of stelen, vraag 5](resources/site/O4v5 delen of stelen/O4v5)
+* WWW [Opdracht 5: Weldoener](resources/site/O5 Weldoener/O5)([.nlogo](resources/site/O5 Weldoener/files/Weldoener.nlogo)
 * PDF [Opdracht 8: Iteraties](resources/leerlingen/H1/Opdracht 8 Iteraties.pdf)
-* WWW [Opdracht 11: Mensenstroom, vraag 43](resources/site/11 Mensenstroom/11v43.html)([.nlogo](resources/site/11 Mensenstroom/files/lokaal.nlogo))
+* WWW [Opdracht 11: Mensenstroom, vraag 43](resources/site/11 Mensenstroom/11v43)([.nlogo](resources/site/11 Mensenstroom/files/lokaal.nlogo))
 * PDF [Opdracht 13: Kiezen II](resources/leerlingen/H1/Opdracht 13 Werkblad Kiezen II.pdf)
 * XLSX [Opdracht 14: Cellulaire Automaten](resources/leerlingen/H1/Opdracht 14 Cellulaire automaten.xlsx)
-* WWW [Opdracht 15: Game of life, vraag 64](resources/site/O15 Game of Life/O15.html)
-* WWW [Opdracht 19: Mexican wave II](resources/site/O19 Mexican Wave II/O19.html)
-* WWW [Opdracht 20: Mexican wave III](resources/site/O20 Mexican Wave III/O20.html)
+* WWW [Opdracht 15: Game of life, vraag 64](resources/site/O15 Game of Life/O15)
+* WWW [Opdracht 19: Mexican wave II](resources/site/O19 Mexican Wave II/O19)
+* WWW [Opdracht 20: Mexican wave III](resources/site/O20 Mexican Wave III/O20)
 
 
 ## Videos

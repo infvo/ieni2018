@@ -19,7 +19,7 @@ Voor sommige opdrachten heb je een pagina of bestand nodig.
 Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
 
 * WWW [Opdracht 4: Delen of stelen, vraag 5](resources/site/O4v5 delen of stelen/O4v5)
-* WWW [Opdracht 5: Weldoener](resources/site/O5 Weldoener/O5)([.nlogo](resources/site/O5 Weldoener/files/Weldoener.nlogo)
+* WWW [Opdracht 5: Weldoener](resources/site/O5 Weldoener/)([.nlogo](resources/site/O5 Weldoener/files/Weldoener.nlogo)
 * PDF [Opdracht 8: Iteraties](resources/leerlingen/H1/Opdracht 8 Iteraties.pdf)
 * WWW [Opdracht 11: Mensenstroom, vraag 43](resources/site/11 Mensenstroom/11v43)([.nlogo](resources/site/11 Mensenstroom/files/lokaal.nlogo))
 * PDF [Opdracht 13: Kiezen II](resources/leerlingen/H1/Opdracht 13 Werkblad Kiezen II.pdf)
@@ -45,5 +45,5 @@ Klik hieronder op de link die je nodig hebt!
 * VID [Opdracht 11: Mensenstroom](https://www.youtube.com/watch?v=KlMi_1InglA)
 * VID [Opdracht 12: Kiezen I](https://eenvandaag.avrotros.nl/binnenland/item/de-voorspelbare-mens-5-gedrag-en-politiek/)
 * VID [Opdracht 15: Game of Life](https://www.youtube.com/watch?v=xP5-iIeKXE8)
-* VID [Opdracht 17: Mexican wave I]()
+* VID [Opdracht 17: Mexican wave I](https://www.youtube.com/watch?v=9IfcFwseTdY)
 * VID [Opdracht 18: Agressie](https://eenvandaag.avrotros.nl/item/de-voorspelbare-mens-2-big-brother-en-criminaliteit-1)

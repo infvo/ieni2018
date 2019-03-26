@@ -4,20 +4,47 @@ layout: subthema
 thema: "computational science"
 ---
 
-## Lesmateriaal
+## NetLogo Opdrachten
 
-Er staat een nieuwe versie van het lesmateriaal op het punt om klaar te zijn!
-Zodra die er is plaatsen we hem hier.
+Dit .zip-archief bevat alle bestanden die je nodig hebt bij hoofdstuk 2.
 
+* .zip [NetLogo_opdrachten](leerlingen/h2/NetLogo_opdrachten.zip)
 
-## Bestanden en webtools
+### Losse .nlogo bestanden
 
-Voor sommige opdrachten heb je een pagina of bestand nodig.
-Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
+Je kunt ook een specifiek model (opnieuw) downloaden:
 
-## Links
+* .nlogo [H2opg2](leerlingen/h2/H2opg2.nlogo)
+* .nlogo [H2opg19](leerlingen/h2/H2opg19.nlogo)
+* .nlogo [H2opg4](leerlingen/h2/H2opg4.nlogo)
+* .nlogo [H2opg22_MD2](leerlingen/h2/H2opg22_MD2.nlogo)
+* .nlogo [H2opg21](leerlingen/h2/H2opg21.nlogo)
+* .nlogo [H2opg24_MD3](leerlingen/h2/H2opg24_MD3.nlogo)
+* .nlogo [H2opg25_MD4](leerlingen/h2/H2opg25_MD4.nlogo)
+* .nlogo [H2opg7](leerlingen/h2/H2opg7.nlogo)
+* .nlogo [H2opg23_AQ5](leerlingen/h2/H2opg23_AQ5.nlogo)
+* .nlogo [H2opg27](leerlingen/h2/H2opg27.nlogo)
+* .nlogo [H2opg11_AQ2](leerlingen/h2/H2opg11_AQ2.nlogo)
+* .nlogo [H2opg8_AQ1](leerlingen/h2/H2opg8_AQ1.nlogo)
+* .nlogo [H2opg5](leerlingen/h2/H2opg5.nlogo)
+* .nlogo [H2opg9](leerlingen/h2/H2opg9.nlogo)
+* .nlogo [H2opg16](leerlingen/h2/H2opg16.nlogo)
+* .nlogo [H2opg12](leerlingen/h2/H2opg12.nlogo)
+* .nlogo [H2opg10](leerlingen/h2/H2opg10.nlogo)
+* .nlogo [H2opg14_AQ3](leerlingen/h2/H2opg14_AQ3.nlogo)
+* .nlogo [H2opg17](leerlingen/h2/H2opg17.nlogo)
+* .nlogo [H2opg26_AQ6](leerlingen/h2/H2opg26_AQ6.nlogo)
+* .nlogo [H2opg15](leerlingen/h2/H2opg15.nlogo)
+* .nlogo [H2opg18_AQ4](leerlingen/h2/H2opg18_AQ4.nlogo)
+* .nlogo [H2opg20_MD1](leerlingen/h2/H2opg20_MD1.nlogo)
+* .nlogo [H2opg13](leerlingen/h2/H2opg13.nlogo)
 
-Als je de digitale versie van het lesmateriaal gebruikt kun je de links in het document gebruiken.
-Werk je met een papieren versie, of is het om een andere reden niet mogelijk om de links uit het document te gebruiken?
-Geen nood! 
-Klik hieronder op de link die je nodig hebt!
+## Instructie Videos
+
+In de opdrachten wordt verwezen naar onderstaande instructie videos.
+
+* VID [H2opg1](leerlingen/h2/H2opg1.mp4)
+* VID [H2opg2](leerlingen/h2/H2opg2.mp4)
+* VID [H2opg6](leerlingen/h2/H2opg6.mp4)
+* VID [H2opg4](leerlingen/h2/H2opg4.mp4)
+* VID [H2opg10](leerlingen/h2/H2opg10.mp4)

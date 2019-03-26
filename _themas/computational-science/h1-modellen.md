@@ -4,14 +4,9 @@ layout: subthema
 thema: "computational science"
 ---
 
-## Lesmateriaal
-
-Onderstaande PDF vormt de basis van Hoofdstuk 1: Modellen, van het ABM lesmateriaal.
 Bij enkele opdrachten zijn er extra bestanden/hulpmiddelen nodig, deze staan onder [bestanden en webtools](#bestanden-en-webtools).
 In de PDF wordt af-en-toe ook verwezen naar video's, klikken op het video-icoon zou de betreffende video in een browser moeten laden.
 Mocht dat om wat voor reden dan ook niet praktisch of bruikbaar zijn dan staan die links ook allemaal hieronder bij [videos](#videos).
-
-* PDF [Lesmateriaal H1](resources/Module ABM lesmateriaal H1 vE.pdf)
 
 ## Bestanden en webtools
 

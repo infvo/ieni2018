@@ -18,7 +18,7 @@ Mocht dat om wat voor reden dan ook niet praktisch of bruikbaar zijn dan staan d
 Voor sommige opdrachten heb je een pagina of bestand nodig.
 Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
 
-* WWW [Opdracht 4: Delen of stelen, vraag 5](resources/site/O4v5 delen of stelen/O4v5)
+* WWW [Opdracht 4: Delen of stelen, vraag 5](leerlingen/h1/delen_of_stelen/)
 * WWW [Opdracht 5: Weldoener](resources/site/O5_Weldoener/)([.nlogo](resources/site/O5 Weldoener/files/Weldoener.nlogo)
 * PDF [Opdracht 8: Iteraties](resources/leerlingen/H1/Opdracht 8 Iteraties.pdf)
 * WWW [Opdracht 11: Mensenstroom, vraag 43](resources/site/11 Mensenstroom/11v43)([.nlogo](resources/site/11 Mensenstroom/files/lokaal.nlogo))

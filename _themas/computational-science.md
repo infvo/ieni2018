@@ -21,7 +21,7 @@ Bij sommige opdrachten zijn extra bestanden/hulpmiddelen nodig, deze zijn per ho
 Er wordt vanuit de PDF ook verwezen naar materiaal op het web.
 Deze links staan ook op de hoofdstukpagina's, mocht het niet mogelijk zijn de link in de PDF te gebruiken.
 
-* PDF [Lesmateriaal](computational-sciene/domein_r_abm_lesmateriaal.pdf)
+* PDF [Lesmateriaal](computational-science/domein_r_abm_lesmateriaal.pdf)
 
 - [Hoofdstuk 1 - Modellen](computational-science/h1-modellen)
 - [Hoofdstuk 2 - NetLogo](computational-science/h2-netlogo)

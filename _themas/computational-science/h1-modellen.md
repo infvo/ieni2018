@@ -19,14 +19,14 @@ Voor sommige opdrachten heb je een pagina of bestand nodig.
 Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
 
 * WWW [Opdracht 4: Delen of stelen, vraag 5](leerlingen/h1/delen_of_stelen/)
-* WWW [Opdracht 5: Weldoener](resources/site/O5_Weldoener/)([.nlogo](resources/site/O5 Weldoener/files/Weldoener.nlogo)
-* PDF [Opdracht 8: Iteraties](resources/leerlingen/H1/Opdracht 8 Iteraties.pdf)
-* WWW [Opdracht 11: Mensenstroom, vraag 43](resources/site/11 Mensenstroom/11v43)([.nlogo](resources/site/11 Mensenstroom/files/lokaal.nlogo))
-* PDF [Opdracht 13: Kiezen II](resources/leerlingen/H1/Opdracht 13 Werkblad Kiezen II.pdf)
-* XLSX [Opdracht 14: Cellulaire Automaten](resources/leerlingen/H1/Opdracht 14 Cellulaire automaten.xlsx)
-* WWW [Opdracht 15: Game of life, vraag 64](resources/site/O15 Game of Life/O15)
-* WWW [Opdracht 19: Mexican wave II](resources/site/O19 Mexican Wave II/O19)
-* WWW [Opdracht 20: Mexican wave III](resources/site/O20 Mexican Wave III/O20)
+* WWW [Opdracht 5: Weldoener](leerlingen/h1/weldoener/)([.nlogo](leerlingen/h1/weldoener/files/Weldoener.nlogo)
+* PDF [Opdracht 8: Iteraties](leerlingen/h1/opdracht_8_iteraties.pdf)
+* WWW [Opdracht 11: Mensenstroom, vraag 43](leerlingen/h1/mensenstroom/)([.nlogo](leerlingen/h1/mensenstroom/files/lokaal.nlogo))
+* PDF [Opdracht 13: Kiezen II](leerlingen/h1/opdracht_13_kiezen_2.pdf)
+* XLSX [Opdracht 14: Cellulaire Automaten](leerlingen/h1/opdracht_14_ellulaire_automaten.xlsx)
+* WWW [Opdracht 15: Game of life, vraag 64](leerlingen/h1/game_of_life/)
+* WWW [Opdracht 19: Mexican wave II](leerlingen/h1/mexican_wave_2/)
+* WWW [Opdracht 20: Mexican wave III](leerlingen/h1/mexican_wave_3/)
 
 
 ## Videos
